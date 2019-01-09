@@ -3,6 +3,7 @@
     package="com.recipe_app" >
 
     <uses-permission android:name="android.permission.INTERNET"/>
+<!--     <uses-permission network setting ="true"/> -->
 
     <application
         android:allowBackup="true"
